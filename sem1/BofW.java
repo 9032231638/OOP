@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Класс бутилированных напитков
  */
-public class BofW extends Drinkables {
+public class BofW extends Drinks {
     /**
      * Перегруженный конструктор класса Бутилированных напитков
      *
