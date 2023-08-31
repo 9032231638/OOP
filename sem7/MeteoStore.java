@@ -1,4 +1,4 @@
-package meteo;
+package sem7;
 
 class MeteoStore {
     // сохранение данных в базу

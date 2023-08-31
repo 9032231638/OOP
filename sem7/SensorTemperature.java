@@ -1,4 +1,4 @@
-package meteo;
+package sem7;
 
 interface SensorTemperature{
 	int identifier(); // идентификатор датчика

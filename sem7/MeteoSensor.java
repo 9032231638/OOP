@@ -1,4 +1,4 @@
-package meteo;
+package sem7;
 
 import java.time.*;
 
